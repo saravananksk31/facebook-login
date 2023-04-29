@@ -1,0 +1,74 @@
+section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+body{
+    background-color:#f0f2f5;
+    font-family: Helvetica;
+}
+div{
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}
+
+#heading{
+    font-size: 23px;
+    text-align: right;
+}
+#myemail{
+    padding: 15px;
+    margin: 5px;
+    width: 340px;
+    background-color: white;
+    border-width: 1px;
+    border-radius: 6px;
+    font-size: 15px;
+}
+#mypassword{
+    padding: 15px;
+    margin: 5px;
+    width: 340px;
+    background-color: white;
+    border-width: 1px;
+    border-radius: 6px;
+    font-size: 15px;
+}
+#mybutton{
+    padding: 15px;
+    margin: 5px;
+    width: 370px;
+    background-color:#1877f2;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    font-size: 20px;
+    font-weight: 600;
+}
+#para{
+    color: #18a2f7;
+    font-size: 15px;
+}
+#mybutton2{
+    padding: 15px;
+    margin: 5px;
+    width: 180px;
+    background-color:#42b72a ;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    font-size: 15px;
+    font-weight: 600;
+}
+#maincontent{
+    width: 380px;
+    height: 300px;
+    background-color: white;
+    border-width: 0.5px;
+    padding: 15px;
+    border-radius: 6px;
+    border-width: 0.5px;
+    box-shadow:  0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+
+}
